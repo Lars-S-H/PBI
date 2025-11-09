@@ -1,17 +1,17 @@
-StoreName,Region,SizeM2,StoreType,Country,City,StoreKey
-Copenhagen City Center,Northern Europe,350,Flagship,Denmark,Copenhagen,1
-Aarhus Mall,Northern Europe,250,Mall,Denmark,Aarhus,2
-Stockholm Galleria,Northern Europe,300,Mall,Sweden,Stockholm,3
-Oslo Outlet,Northern Europe,200,Outlet,Norway,Oslo,4
-Berlin Mitte,Central Europe,400,Flagship,Germany,Berlin,5
-Munich Center,Central Europe,280,Mall,Germany,Munich,6
-Paris Champs-Élysées,Western Europe,420,Flagship,France,Paris,7
-Lyon Mall,Western Europe,260,Mall,France,Lyon,8
-Madrid Gran Via,Southern Europe,380,Flagship,Spain,Madrid,9
-Barcelona Outlet,Southern Europe,220,Outlet,Spain,Barcelona,10
-Milan Fashion District,Southern Europe,410,Flagship,Italy,Milan,11
-Rome Mall,Southern Europe,270,Mall,Italy,Rome,12
-Amsterdam Central,Western Europe,290,Mall,Netherlands,Amsterdam,13
-Rotterdam Outlet,Western Europe,230,Outlet,Netherlands,Rotterdam,14
-London Oxford Street,Western Europe,450,Flagship,UK,London,15
-Manchester Mall,Western Europe,300,Mall,UK,Manchester,16
+StoreName,Country,Region,City,StoreType,SizeM2,StoreKey,OpenDate
+Copenhagen City Center,Denmark,Northern Europe,Copenhagen,Flagship,350,1,2019-07-17
+Aarhus Mall,Denmark,Northern Europe,Aarhus,Mall,250,2,2020-11-29
+Stockholm Galleria,Sweden,Northern Europe,Stockholm,Mall,300,3,2018-05-06
+Oslo Outlet,Norway,Northern Europe,Oslo,Outlet,200,4,2017-03-12
+Berlin Mitte,Germany,Central Europe,Berlin,Flagship,400,5,2021-02-01
+Munich Center,Germany,Central Europe,Munich,Mall,280,6,2021-10-07
+Paris Champs-Élysées,France,Western Europe,Paris,Flagship,420,7,2021-05-04
+Lyon Mall,France,Western Europe,Lyon,Mall,260,8,2019-06-19
+Madrid Gran Via,Spain,Southern Europe,Madrid,Flagship,380,9,2022-10-19
+Barcelona Outlet,Spain,Southern Europe,Barcelona,Outlet,220,10,2015-09-22
+Milan Fashion District,Italy,Southern Europe,Milan,Flagship,410,11,2017-07-27
+Rome Mall,Italy,Southern Europe,Rome,Mall,270,12,2020-10-21
+Amsterdam Central,Netherlands,Western Europe,Amsterdam,Mall,290,13,2021-11-25
+Rotterdam Outlet,Netherlands,Western Europe,Rotterdam,Outlet,230,14,2019-05-09
+London Oxford Street,UK,Western Europe,London,Flagship,450,15,2019-08-20
+Manchester Mall,UK,Western Europe,Manchester,Mall,300,16,2015-01-29
