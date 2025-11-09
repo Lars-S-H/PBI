@@ -1,0 +1,17 @@
+StoreName,Country,Region,City,StoreType,SizeM2,StoreKey,OpenDate
+Copenhagen City Center,Denmark,Northern Europe,Copenhagen,Flagship,350,1,2019-07-17
+Aarhus Mall,Denmark,Northern Europe,Aarhus,Mall,250,2,2020-11-29
+Stockholm Galleria,Sweden,Northern Europe,Stockholm,Mall,300,3,2018-05-06
+Oslo Outlet,Norway,Northern Europe,Oslo,Outlet,200,4,2017-03-12
+Berlin Mitte,Germany,Central Europe,Berlin,Flagship,400,5,2021-02-01
+Munich Center,Germany,Central Europe,Munich,Mall,280,6,2021-10-07
+Paris Champs-Élysées,France,Western Europe,Paris,Flagship,420,7,2021-05-04
+Lyon Mall,France,Western Europe,Lyon,Mall,260,8,2019-06-19
+Madrid Gran Via,Spain,Southern Europe,Madrid,Flagship,380,9,2022-10-19
+Barcelona Outlet,Spain,Southern Europe,Barcelona,Outlet,220,10,2015-09-22
+Milan Fashion District,Italy,Southern Europe,Milan,Flagship,410,11,2017-07-27
+Rome Mall,Italy,Southern Europe,Rome,Mall,270,12,2020-10-21
+Amsterdam Central,Netherlands,Western Europe,Amsterdam,Mall,290,13,2021-11-25
+Rotterdam Outlet,Netherlands,Western Europe,Rotterdam,Outlet,230,14,2019-05-09
+London Oxford Street,UK,Western Europe,London,Flagship,450,15,2019-08-20
+Manchester Mall,UK,Western Europe,Manchester,Mall,300,16,2015-01-29
